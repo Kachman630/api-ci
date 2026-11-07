@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.rest.MobileBankApiTestV4" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-07T16:38:28" hostname="VIKING" time="0.434">
+  <properties/>
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV4" time="0.434"/>
+  <system-out><![CDATA[HTTP/1.1 200 OK
+Content-Length: 433
+Content-Type: application/json; charset=UTF-8
+Connection: keep-alive
+
+[
+    {
+        "id": 1,
+        "name": "Текущий счёт",
+        "number": "•• 0668",
+        "balance": 992821429,
+        "currency": "RUB"
+    },
+    {
+        "id": 2,
+        "name": "Текущий счёт",
+        "number": "•• 9192",
+        "balance": 2877210,
+        "currency": "USD"
+    },
+    {
+        "id": 3,
+        "name": "Текущий зарплатный счёт",
+        "number": "•• 5257",
+        "balance": 1204044,
+        "currency": "RUB"
+    }
+]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

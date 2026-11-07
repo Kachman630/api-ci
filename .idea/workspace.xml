@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77bf0170-a77e-46a9-a2eb-f1fdc48625d0" name="Changes" comment="" />
+    <list default="true" id="77bf0170-a77e-46a9-a2eb-f1fdc48625d0" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +30,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kachman630&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kachman630/api-ci.git&quot;,
+    &quot;accountId&quot;: &quot;70277a0e-63f7-4543-a1a1-e5cbf4c6fd04&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LjO3WOSYBGhezZKU8fxsKyAcfs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,8 +53,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven. [clean,verify].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -35,9 +66,15 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,5 +95,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
