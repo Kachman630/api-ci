@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77bf0170-a77e-46a9-a2eb-f1fdc48625d0" name="Changes" comment="git commit -m &quot;Fix test&quot;">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="77bf0170-a77e-46a9-a2eb-f1fdc48625d0" name="Changes" comment="git commit -m &quot;Markdown&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="git commit -m &quot;Fix test&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Fix test&quot;" />
+    <MESSAGE value="git commit -m &quot;Markdown&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Markdown&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
