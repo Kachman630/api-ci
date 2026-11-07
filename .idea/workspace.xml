@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77bf0170-a77e-46a9-a2eb-f1fdc48625d0" name="Changes" comment="initial">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" beforeDir="false" />
+    <list default="true" id="77bf0170-a77e-46a9-a2eb-f1fdc48625d0" name="Changes" comment="git commit -m &quot;Fix test&quot;">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="git commit -m &quot;Fix test&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Fix test&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
